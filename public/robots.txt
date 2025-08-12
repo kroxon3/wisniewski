@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: Update with actual domain
+Sitemap: https://wisniewski-hvac.pl/sitemap.xml
